@@ -1,0 +1,1 @@
+This zip file contains the code I used to build the original Movies database and insert records into the tables. Please note I may have made changes to the table contents since the time of posting this.
